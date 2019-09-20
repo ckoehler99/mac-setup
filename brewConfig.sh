@@ -32,3 +32,4 @@ brew install tcpflow
 brew install tcpreplay
 brew install tcptrace
 brew install wget
+brew install vultr-cli
