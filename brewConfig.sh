@@ -34,3 +34,7 @@ brew install tcptrace
 brew install wget
 brew tap vultr/vultr-cli
 brew install vultr-cli
+brew install go
+brew install node
+brew install openjdk
+brew install terraform
